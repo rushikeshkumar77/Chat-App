@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836307941407",
+    "project_id": "chatapp-704fc",
+    "storage_bucket": "chatapp-704fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836307941407:android:d662bfe2f6bcda98423d2a",
+        "android_client_info": {
+          "package_name": "com.rushikeshembadwar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836307941407-41onuch0f74mjvc9iltbue02t2ha2lor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-WLc5StpvOiFEgmG4W7Mm3y6RJbZE8Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836307941407-41onuch0f74mjvc9iltbue02t2ha2lor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
